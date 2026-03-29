@@ -17,4 +17,4 @@ This project is my Deep Learning assignment. It includes a simple neural network
 - Jupyter Notebook
 
 ## Credit
-Some examples were adapted from the intuitive-deep-learning repository by Joseph Lee.
+Some examples were adapted from Prof. Sam's intuitive-deep-learning repository.
